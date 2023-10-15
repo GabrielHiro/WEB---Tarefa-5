@@ -1,4 +1,4 @@
-## README - Exercícios de JavaScript
+## Exercícios de JavaScript
 
 #### Não copiem, levem como inspiração. 😁
 
